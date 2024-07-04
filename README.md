@@ -17,7 +17,7 @@ Grâce à l'étude INCA3, on récupère beaucoup d'information sur les habitudes
 - seaborn version 0.12.2
 
 ### Installing
-
+Pour installer les données, il suffit d'aller sur le site : https://www.data.gouv.fr/fr/datasets/donnees-de-consommations-et-habitudes-alimentaires-de-letude-inca-3/#resources-panel 
 il suffit d'utiliser pip install -r requirements.txt
 Sinon vous pouvez utiliser CONDA : 
 conda env create -f environment.yml
